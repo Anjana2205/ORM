@@ -28,7 +28,8 @@ Execute Django admin and create 10 Football players
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/Anjana2205/ORM/assets/144869446/865f48aa-3190-4a71-b169-14ad4483f6b0)
+
 
 
 
