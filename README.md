@@ -23,13 +23,14 @@ Enter the code for admin.py and models.py
 Execute Django admin and create 10 Football players
 
 ## PROGRAM
-![image](https://github.com/Anjana2205/ORM/assets/144869446/2b2b155e-75e7-4b52-b04f-fbfaa2b595a5)
-![image](https://github.com/Anjana2205/ORM/assets/144869446/ac7c2d0b-cca6-449b-bb67-1f9a4fccc9d9)
-![image](https://github.com/Anjana2205/ORM/assets/144869446/b4865382-628e-42d2-a75d-152ae5e00fd9)
+![image](https://github.com/Anjana2205/ORM/assets/144869446/2520da22-c48d-4684-8d55-df67f668bef6)
+![image](https://github.com/Anjana2205/ORM/assets/144869446/87306c59-bb78-4dd4-b3c8-3ef209beea34)
+
+
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/Anjana2205/ORM/assets/144869446/fcbc7bda-4920-49a5-9a27-c539389a12b6)
 
 
 Include the screenshot of your admin page.
